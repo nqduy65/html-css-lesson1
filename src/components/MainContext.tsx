@@ -2,7 +2,7 @@ const MainContext = () => {
   return (
     <div className="content">
       <div className="flex-container">
-        <div className="col-1" style={{ flexGrow: 1, padding: "0 0.5rem" }}>
+        <div className="col-1" style={{ flexGrow: 1 }}>
           <iframe
             width="100%"
             height="315"
@@ -14,7 +14,7 @@ const MainContext = () => {
             allowFullScreen
           ></iframe>
         </div>
-        <div className="col-1" style={{ flexGrow: 1, padding: "0 0.5rem" }}>
+        <div className="col-1" style={{ flexGrow: 1 }}>
           <h1 className="title-h1">
             <span style={{ color: "#03204c" }}>Container</span>
             <br />
@@ -31,9 +31,9 @@ const MainContext = () => {
       </div>
       <div
         className="flex-container"
-        style={{ margin: "2.5rem 0.5rem", gap: "25px" }}
+        style={{ margin: "2.5rem 0rem", gap: "25px" }}
       >
-        <div className="col-1" style={{ flexGrow: 1 }}>
+        <div className="col-1">
           <h3>
             <span style={{ color: "#03204c" }}>Easy to use</span>
           </h3>
@@ -43,7 +43,7 @@ const MainContext = () => {
             fugiat anim do. Cillum tempor labore amet magna cillum.
           </p>
         </div>
-        <div className="col-1" style={{ flexGrow: 1 }}>
+        <div className="col-1">
           <h3>
             <span style={{ color: "#03204c" }}>Integrate with BI tools</span>
           </h3>
@@ -53,7 +53,7 @@ const MainContext = () => {
             fugiat anim do. Cillum tempor labore amet magna cillum.
           </p>
         </div>
-        <div className="col-1" style={{ flexGrow: 1 }}>
+        <div className="col-1">
           <h3>
             <span style={{ color: "#03204c" }}>Yield Management</span>
           </h3>
@@ -63,7 +63,7 @@ const MainContext = () => {
             fugiat anim do. Cillum tempor labore amet magna cillum.
           </p>
         </div>
-        <div className="col-1" style={{ flexGrow: 1 }}>
+        <div className="col-1">
           <h3>
             <span style={{ color: "#03204c" }}>Exception Management</span>
           </h3>
