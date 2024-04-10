@@ -354,6 +354,13 @@ footer a:hover .svg-ytb {
 
     h1.title-h1 {
         text-align: start;
+        font-size: 50px;
+        font-weight: 500;
+    }
+
+    .col-1 h2 {
+        font-size: 30px;
+        font-weight: 500;
     }
 
     .col-2 {

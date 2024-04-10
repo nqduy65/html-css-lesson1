@@ -23,9 +23,14 @@ const MainContext = () => {
             </span>
           </h1>
           <p>
-            Commodo eiusmod sint occaecat ut. Anim do ea duis ullamco
-            consectetur eiusmod velit esse. Amet mollit consequat sit laboris
-            fugiat anim do. Cillum tempor labore amet magna cillum.
+            Ocean shipping is continuing to be a biggest domain in Global Trade
+            and carriers strive to deliver service excellence in the face of
+            dynamic market changes and the demands for better customer service.
+            By providing a robust, web-compliant operating environment and
+            user-friendly interface, container carriers can readily decentralize
+            their processes across their shipping network while integrating them
+            into a single system for better control and improved operational
+            efficiency.
           </p>
         </div>
       </div>
@@ -34,9 +39,9 @@ const MainContext = () => {
         style={{ margin: "2.5rem 0rem", gap: "25px" }}
       >
         <div className="col-1">
-          <h3>
+          <h2>
             <span style={{ color: "#03204c" }}>Easy to use</span>
-          </h3>
+          </h2>
           <p>
             Commodo eiusmod sint occaecat ut. Anim do ea duis ullamco
             consectetur eiusmod velit esse. Amet mollit consequat sit laboris
@@ -44,9 +49,9 @@ const MainContext = () => {
           </p>
         </div>
         <div className="col-1">
-          <h3>
+          <h2>
             <span style={{ color: "#03204c" }}>Integrate with BI tools</span>
-          </h3>
+          </h2>
           <p>
             Commodo eiusmod sint occaecat ut. Anim do ea duis ullamco
             consectetur eiusmod velit esse. Amet mollit consequat sit laboris
@@ -54,9 +59,9 @@ const MainContext = () => {
           </p>
         </div>
         <div className="col-1">
-          <h3>
+          <h2>
             <span style={{ color: "#03204c" }}>Yield Management</span>
-          </h3>
+          </h2>
           <p>
             Commodo eiusmod sint occaecat ut. Anim do ea duis ullamco
             consectetur eiusmod velit esse. Amet mollit consequat sit laboris
@@ -64,9 +69,9 @@ const MainContext = () => {
           </p>
         </div>
         <div className="col-1">
-          <h3>
+          <h2>
             <span style={{ color: "#03204c" }}>Exception Management</span>
-          </h3>
+          </h2>
           <p>
             Commodo eiusmod sint occaecat ut. Anim do ea duis ullamco
             consectetur eiusmod velit esse. Amet mollit consequat sit laboris
